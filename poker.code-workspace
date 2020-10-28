@@ -1,0 +1,15 @@
+{
+  "folders": [
+	{
+		"path": "../poker-game"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "cSpell.words": [
+      "socketio"
+    ]
+  }
+}
